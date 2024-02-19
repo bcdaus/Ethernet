@@ -1,5 +1,7 @@
 :repository-owner: arduino-libraries
 :repository-name: Ethernet
+= BC Edit = 
+Add DHCP option for Hostname as per many other people - code based on someone elses work but put against latest build of Ethernet Libs.
 
 = {repository-name} Library for Arduino =
 
